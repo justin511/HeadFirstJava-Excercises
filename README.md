@@ -1,1 +1,1 @@
-# HeadFirstJava-Excercises
+# HeadFirstJava-Exercises
